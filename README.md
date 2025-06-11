@@ -8,10 +8,18 @@ In the competitive OTT space, LioCinema has a vast subscriber base, while Jotsta
 - 𝗝𝗼𝘁𝘀𝘁𝗮𝗿 needs better audience reach and engagement 🎯
 
 ## 𝗧𝗮𝘀𝗸:
-As a Data Analyst, I was responsible for analyzing streaming data, performance metrics, and user behavior across both platforms.
+As a Data Analyst, I was responsible for the following:
+1. Content Library Analysis
+2. Subscriber Insights
+3. Inactivity Analysis
+4. Upgrade Patterns
+5. Downgrade Patterns
+6. Content Consumption Behavior
+
+Also, I was responsible to show the answers of the questions given by stakeholders. (file: primary_and_secondary_questions.pdf)
 
 ## 𝗔𝗰𝘁𝗶𝗼𝗻:
-I built a Power BI dashboard with multiple analytical views to extract key insights.
+I built a Power BI dashboard with multiple analytical views to extract key insights from the past one year (January to November 2024).
 
 ### 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 & 𝗖𝗼𝗻𝘀𝘂𝗺𝗽𝘁𝗶𝗼𝗻: 
 Analyzed content availability, types, and total watch time across platforms.
